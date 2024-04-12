@@ -1,1 +1,1 @@
-[![CI test.](https://github.com/Taofiq-Bakare/basic_ci/actions/workflows/blank.yml/badge.svg?branch=main)](https://github.com/Taofiq-Bakare/basic_ci/actions/workflows/blank.yml)
+[![CI test.](https://github.com/Taofiq-Bakare/basic_ci/actions/workflows/basic_actions.yml/badge.svg)](https://github.com/Taofiq-Bakare/basic_ci/actions/workflows/basic_actions.yml)

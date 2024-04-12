@@ -6,3 +6,10 @@ def test_can_add_two_floats():
     b = 2
     result = add_(a, b)
     assert result == 3
+
+
+def test_can_add_two_negative_floats():
+    a = -1
+    b = -2
+    result = add_(a, b)
+    assert result == -3
